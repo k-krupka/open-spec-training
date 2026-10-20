@@ -1,5 +1,7 @@
 # Homework: From an idea to a readiness endpoint
 
+**Estimated time:** 60–90 minutes
+
 ## Goal
 
 Use OpenSpec to create a small API service and add a readiness endpoint. Start with the same exploration prompt as everyone else, then make and document your own engineering decisions.

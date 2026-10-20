@@ -13,13 +13,15 @@ Start with a clean OpenSpec project. Copy the distributed [`lab-starter.html`](.
 
 ## Instructions
 
-1. Create a change proposal for this request:
+1. Create a new folder on your laptop
+2. Open inside the Visual Studio Code instance
+3. Create a change proposal for this request:
 
    > Add the text “Welcome to my page” directly below “John McClane” on the existing page. Keep both lines centered. Preserve the existing name and styling. Do not add features, dependencies, or unrelated files.
 
-2. Review the proposal before applying it. Check that the requested text and layout are clear, and that the scope has not grown.
-3. Apply the change.
-4. Inspect the diff and open the page. Confirm the result matches the request.
+5. Review the proposal before applying it. Check that the requested text and layout are clear, and that the scope has not grown.
+6. Apply the change.
+7. Inspect the diff and open the page. Confirm the result matches the request.
 
 ## Definition of done
 
@@ -27,6 +29,16 @@ Start with a clean OpenSpec project. Copy the distributed [`lab-starter.html`](.
 - “Welcome to my page” appears directly below the name.
 - Both lines are centered.
 - No unrelated changes or dependencies were added.
+
+## Useful OpenSpec commands
+
+| Command         | Purpose                                              |
+| --------------- | ---------------------------------------------------- |
+| `/opsx-explore` | Explore an idea and clarify requirements.            |
+| `/opsx-propose` | Create a change proposal and its planning artifacts. |
+| `/opsx-update`  | Revise an existing change's planning artifacts.      |
+| `/opsx-apply`   | Implement the tasks in a change.                     |
+| `/opsx-archive` | Archive a completed change.                          |
 
 ## Discussion
 

@@ -12,5 +12,7 @@ I want to create a new web page:
 4. put the outcome in \40-demo-spec-drive-development-with-open-spec\output-web-page
 5. i want this page to be "special"
 
+Notes: do not perform any extensive action like unit testing, integration testing, etc. This is for demo purposes, so the time is at most importance. I will test manually on my own later.
+
 Use my name: "John McClane"
 ```
