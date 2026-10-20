@@ -1,7 +1,7 @@
 # Lab 1: Add a welcome message
 
 **Time:** 15–20 minutes  
-**Format:** Work in pairs
+**Format:** Work individually
 
 ## Goal
 
@@ -30,7 +30,7 @@ Start with a clean OpenSpec project. Copy the distributed [`lab-starter.html`](.
 
 ## Discussion
 
-Discuss with your partner:
+Reflect on the following:
 
 > Was the proposal useful for this change, or would you normally just make the edit? What is the smallest change where you would choose to use OpenSpec?
 

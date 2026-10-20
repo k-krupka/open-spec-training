@@ -22,7 +22,13 @@ All people who are interested in agentic way of working. It doesn't matter if th
 
 # Agenda
 
-TODO. Complete this section later.
+1. **Why spec-driven development?** Set the learning goal: decide when a change needs a spec, create a useful one, and check that the implementation matches it. See [the course goal](./00-theory/01.%20goal.md).
+2. **See what happens without a spec.** Make a simple page, then change it using prompts alone. Discuss how requirements can drift. See the [no-spec demo](./10-demo-prompts-vibe-coding/10.%20without.md), [page prompt](./10-demo-prompts-vibe-coding/20-create-simple-web-page.prompt.md), and [follow-up change](./10-demo-prompts-vibe-coding/30-add-email-to-the-page.prompt.md).
+3. **Practice prompt engineering in Copilot.** Review the [prompt-engineering example](./20-prompt-engeenering-in-copilot/example.md).
+4. **Use OpenSpec to guide a change.** Walk through the [OpenSpec workflow](./40-demo-spec-drive-development-with-open-spec/10-with.md), [creating a page](./40-demo-spec-drive-development-with-open-spec/20-create-page-via-openspec.md), [adding dark mode](./40-demo-spec-drive-development-with-open-spec/30-add-dark-mode.md), and [reviewing the specs](./40-demo-spec-drive-development-with-open-spec/40-review-the-specs.md).
+5. **Discuss when to use OpenSpec.** Compare suitable and unsuitable tasks and common mistakes in [the use-case guidance](./60-dos-and-donts-of-openspec/use-cases-for-not-using-openspec.md).
+6. **Practice individually.** Complete [Lab 1](./50-lab/lab-01.md), starting with the [briefing](./50-lab/_briefing.md) and ending with the [wrap-up](./50-lab/_wrap-up.md).
+7. **Continue with the follow-up exercise.** Use the [homework instructions](./70-homework/homework-exercise-instructions.md) to practice the workflow independently.
 
 # Support
 
