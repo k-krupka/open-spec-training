@@ -3,7 +3,7 @@
 ## Explore
 
 ```
-/openspec-explore I want to add a light/dark theme toggle to the existing page. Before proposing a change, help me identify the important decisions and ask me up to three clarifying questions. Preserve the existing name, centered layout, and simple HTML implementation. Don’t implement anything yet.
+/openspec-explore I want to add a light/dark theme toggle to the existing page. Before proposing a change, help me identify the important decisions and ask me up to three clarifying questions
 ```
 
 ## Audience changes
