@@ -3,10 +3,10 @@
 
 $ErrorActionPreference = 'Stop'
 
-$outputPath = Join-Path (Split-Path -Parent $PSScriptRoot) '01-demo-prompts-vibe-coding\output-web-page'
-$secondDirectoryPath = Join-Path (Split-Path -Parent $PSScriptRoot) '02-demo-spec-drive-development-with-open-spec\output-web-page'
-$specsPath = Join-Path (Split-Path -Parent $PSScriptRoot) 'openspec\specs'
-$archivePath = Join-Path (Split-Path -Parent $PSScriptRoot) 'openspec\changes'
+$outputPath = Join-Path $PSScriptRoot '10-demo-prompts-vibe-coding\output-web-page'
+$secondDirectoryPath = Join-Path $PSScriptRoot '40-demo-spec-drive-development-with-open-spec\output-web-page'
+$specsPath = Join-Path $PSScriptRoot 'openspec\specs'
+$archivePath = Join-Path $PSScriptRoot 'openspec\changes'
 
 if (Test-Path -LiteralPath $outputPath) {
 	Remove-Item -LiteralPath $outputPath -Recurse -Force

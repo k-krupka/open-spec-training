@@ -1,1 +1,0 @@
-/openspec-propose add dark mode to my page

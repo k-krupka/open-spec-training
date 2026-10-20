@@ -1,1 +1,0 @@
-To my simple webpage in \01-demo-prompts-vibe-coding\output-web-page, please add an email. Remove the surname by accident.
