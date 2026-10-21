@@ -2,7 +2,7 @@
 
 **Time:** 5 minutes
 
-**Repository:** _TODO: add the link to the Bayer repository_
+**Repository:** Show a Production grade GitHub repository example with full OpenSpec support. 
 
 ## Goal
 

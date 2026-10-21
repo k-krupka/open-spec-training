@@ -29,7 +29,7 @@ The session is two hours. The demos come first, followed by the hands-on lab and
 | 00:00–00:05 |    5 min | Welcome and [learning goal](./00-theory/01.%20goal.md)                                                                   |
 | 00:05–00:10 |    5 min | **Demo:** [without a spec](./10-demo-prompts-vibe-coding/10.%20without.md), where requirements drift                     |
 | 00:10–00:55 |   45 min | **Demo:** [spec-driven development with OpenSpec](./40-demo-spec-drive-development-with-open-spec/10-with.md)            |
-| 00:55–01:00 |    5 min | **Demo:** [a real Bayer product](./45-demo-real-product-showcase/10-showcase-real-product.md) built with intent as code |
+| 00:55–01:00 |    5 min | **Demo:** [a real product](./45-demo-real-product-showcase/10-showcase-real-product.md) built with intent as code |
 | 01:00–01:10 |   10 min | [When to use OpenSpec, and when not](./60-dos-and-donts-of-openspec/use-cases-for-not-using-openspec.md)                 |
 | 01:10–01:45 |   35 min | **Lab:** [individual practice](./50-lab/lab-01.md)                                                                       |
 | 01:45–02:00 |   15 min | **Q&A**                                                                                                                  |

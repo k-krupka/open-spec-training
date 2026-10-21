@@ -1,6 +1,6 @@
 # Lab 1: Add a welcome message
 
-**Time:** 15–20 minutes  
+**Time:** 35 minutes  
 **Format:** Work individually
 
 ## Goal
