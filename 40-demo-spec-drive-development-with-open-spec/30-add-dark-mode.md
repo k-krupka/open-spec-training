@@ -14,7 +14,8 @@ One or two.
 
 ```
 /openspec-update-change add-light-dark-theme-toggle
-Oh no! I forgot that we are in Bayer. Please check what is the theme of my company and incorporate it. We'll have three themes now. 
+Hey man! 
+Oh no! I forgot that we need a Star Wars theme. We'll have three themes now. 
 I need a kick-ass logo as well !!
 ```
 
