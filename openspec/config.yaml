@@ -33,6 +33,12 @@ githubCopilot:
 #       guidance:
 #         - Summarize the archive outcome before finishing
 operations:
+  apply:
+    guidance:
+      - For demo implementation tasks, do not invoke Playwright or browser tools, and do not run UI tests. Manual verification is sufficient; the user will verify demo results.
+      - Skip extensive unit or integration testing for demos, and keep implementation limited to the requested demo output.
+      - Mobile verification is not required for demo tasks; focus on manual review.
+      - Focus on implementing only the requested demo output; avoid adding unrelated features or tests.
   archive:
     guidance:
       - Always sync the change's delta specs to the main specs before archiving.

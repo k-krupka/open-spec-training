@@ -10,6 +10,14 @@
 
 One or two.
 
+## Additional ad-hoc change...
+
+```
+/openspec-update-change add-light-dark-theme-toggle
+Oh no! I forgot that we are in Bayer. Please check what is the theme of my company and incorporate it. We'll have three themes now. 
+I need a kick-ass logo as well !!
+```
+
 ## Propose
 
 And so on...
@@ -18,11 +26,3 @@ And so on...
 
 1. Are the initial theme and toggle behavior clear?
 2. Is anything included that nobody asked for?
-
-## Apply
-
-And so on...
-
-## Verify the result
-
-And so on...
