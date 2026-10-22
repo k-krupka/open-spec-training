@@ -2,18 +2,19 @@
 
 **Time:** 5 minutes
 
-**Repository:** Show a Production grade GitHub repository example with full OpenSpec support. 
+**Repository:** Choose a production-grade or realistic team repository with permission to show it.
 
 ## Goal
 
-Show that OpenSpec scales beyond a demo page: an entire product can be built and evolved with its intent captured as code.
+Show how the same change workflow can be applied beyond a demo page, including to infrastructure as code (IaC). Be precise about what the selected repository actually demonstrates; a small training example is not evidence of a complete production workflow.
 
-## What to show
+## Prepare before the session
 
-1. **Specs:** `openspec/specs/` — the current, agreed behavior of the product.
-2. **Archive:** `openspec/changes/archive/` — the history of decisions and why they were made.
-3. **One change end to end:** pick one archived change and follow it from the proposal to the spec delta to the code.
+Select one small, completed change and confirm in advance that you can show:
+
+- The relevant current spec in `openspec/specs/`.
+- The archived change's proposal, design, tasks, and spec delta, where those artifacts are retained.
 
 ## Key message
 
-The code shows *what* the product does. The specs and archived changes show *why* it does that.
+The current spec describes agreed behavior; archived changes provide decision history. A routine change should start from the relevant current spec and code, not treat the entire archive as active requirements. Consult history when the rationale or evolution matters. Code and configuration show the implementation. These sources complement one another, and none removes the need for review and verification.
