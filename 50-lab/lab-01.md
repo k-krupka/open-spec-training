@@ -9,19 +9,40 @@ Practice the OpenSpec change workflow on a deliberately small, predictable reque
 
 ## Starting point
 
-Start with a clean OpenSpec project. Copy the distributed [`lab-starter.html`](./lab-starter.html) into the project root and rename it to `index.html`. The page displays **John McClane** in the center.
+Start with a clean OpenSpec project. 
 
 ## Instructions
 
 1. Create a new folder on your laptop
-2. Open inside the Visual Studio Code instance
-3. Create a change proposal for this request:
+2. Open the above folder inside a new Visual Studio Code instance
+   
+   ![alt text](image.png)
+   
+3. Copy the distributed [`lab-starter.html`](./lab-starter.html) file into the project root. The page displays **John McClane** in the center.
+   
+   ![alt text](image-1.png)
 
+4. Initialize OpenSpec by calling the command:
+   
+   > openspec init
+
+   Example view:
+
+   ![alt text](image-2.png)
+
+5. Create a change proposal for this request:
+
+   > /openspec-explore
+   >
    > Add the text “Welcome to my page” directly below “John McClane” on the existing page. Keep both lines centered. Preserve the existing name and styling. Do not add features, dependencies, or unrelated files.
 
-5. Review the proposal before applying it. Check that the requested text and layout are clear, and that the scope has not grown.
-6. Apply the change.
-7. Inspect the diff and open the page. Confirm the result matches the request.
+   Example view:
+
+   ![alt text](image-3.png)
+
+6. Review the proposal before applying it. Check that the requested text and layout are clear, and that the scope has not grown.
+7. Apply the change.
+8. Inspect the diff and open the page. Confirm the result matches the request.
 
 ## Definition of done
 
